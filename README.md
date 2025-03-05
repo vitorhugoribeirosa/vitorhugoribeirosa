@@ -1,59 +1,27 @@
-# 🚀 Vitor Hugo | Tech Innovator
+![Banner](https://source.unsplash.com/1600x400/?technology,gaming)
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=Vitor+Hugo+%7C+Tech+Explorer" alt="Banner Tecnológico" width="100%">
-</div>
+# 👋 Olá, eu sou [Seu Nome]!
 
-## 🌐 Digital Landscape
+🎮 Desenvolvedor apaixonado por tecnologia e jogos.
 
-### 🤖 Quem Sou
-Técnico em Informática e futuro cientista da computação, navegando pelos universos digitais da tecnologia com uma missão: transformar linhas de código em soluções inovadoras.
+![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat-square)
 
-## 💻 Tech Stack Futurista
+## 🚀 Sobre Mim
+💻 Programador entusiasta, explorando novas tecnologias e criando projetos incríveis.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-Jedi%20Level-blue?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-Matrix%20Mode-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-Cyberpunk%20Edition-blueviolet?style=for-the-badge&logo=react" alt="React"/>
-</div>
+🔹 **Linguagens e Tecnologias:**
+- JavaScript | TypeScript | Python | PHP
+- React | Node.js | Express.js
+- MySQL | PostgreSQL | MongoDB
 
-### 🛠️ Ferramentas de Destruição em Massa (de Problemas)
-- 🔧 Infraestrutura Ninja
-- 🌍 Arquiteto de Ecossistemas Digitais
-- 🔒 Guardião da Segurança Cibernética
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
 
-## 🚀 Projetos Que Quebram a Matriz
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
 
-### 💡 Projeto Nexus
-Sistema de gerenciamento acadêmico que não é apenas um sistema, é uma revolução digital.
-
-### 🌈 Dashboard Quantum
-Monitoramento de redes que parece saído de um filme de ficção científica.
-
-## 🔮 Estatísticas Interdimensionais
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical"/>
-</div>
-
-## 📡 Portais de Comunicação
-
-<div align="center">
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-Transmission%20Point-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/seuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-Connection%20Hub-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</div>
-
-## 💬 Mensagem de Criptação Pessoal
-
-> "No universo infinito do código, cada bug é apenas uma estrela ainda não mapeada." - Vitor Hugo, Explorador Digital 🌠
+## 📡 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/seu-perfil)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/seu-perfil)](https://twitter.com/seu-perfil)
 
 ---
-
-<div align="center">
-  🤖 Perfil em constante atualização. Última sincronização: Hoje 🔄
-</div>
+💡 "O aprendizado nunca termina!"
