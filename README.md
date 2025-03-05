@@ -4,134 +4,139 @@
     <meta charset="UTF-8">
     <title>Vitor Hugo - Desenvolvedor</title>
     <style>
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
+        /* Animações nativas CSS */
+        @keyframes slide-in {
+            from { transform: translateX(-100%); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+
+        @keyframes fade-in {
+            from { opacity: 0; }
+            to { opacity: 1; }
         }
 
         @keyframes pulse {
-            0% { transform: scale(1); }
-            50% { transform: scale(1.05); }
-            100% { transform: scale(1); }
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.1); }
         }
 
-        @keyframes slideIn {
-            from { transform: translateX(-100%); }
-            to { transform: translateX(0); }
-        }
-
-        @keyframes cardHover {
-            0% { transform: scale(1); }
-            50% { transform: scale(1.05); }
-            100% { transform: scale(1); }
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
         }
 
         body {
             font-family: Arial, sans-serif;
             background-color: #141414;
             color: white;
-            margin: 0;
-            padding: 0;
-            overflow-x: hidden;
+            line-height: 1.6;
         }
+
+        /* Navbar com animação */
         .navbar {
             display: flex;
             justify-content: space-between;
             padding: 20px;
             background-color: black;
-            animation: fadeIn 1s ease-out;
+            animation: slide-in 1s ease;
         }
+
         .logo {
             color: red;
             font-size: 24px;
             font-weight: bold;
             animation: pulse 2s infinite;
         }
+
         .menu {
             display: flex;
             gap: 20px;
-            animation: slideIn 1s ease-out;
         }
+
         .menu a {
             color: white;
             text-decoration: none;
-            transition: color 0.3s ease;
+            transition: color 0.3s;
         }
+
         .menu a:hover {
-            color: #e50914;
+            color: red;
         }
+
+        /* Seção principal */
+        .profile {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            animation: fade-in 2s;
+        }
+
         .hero {
-            background-image: url('/api/placeholder/1200/600');
-            height: 70vh;
-            background-size: cover;
-            display: flex;
-            align-items: center;
-            padding: 0 50px;
-            animation: fadeIn 1.5s ease-out;
-        }
-        .hero-content {
-            max-width: 500px;
             background-color: rgba(0,0,0,0.7);
-            padding: 20px;
+            padding: 40px;
+            text-align: center;
             border-radius: 10px;
-            animation: slideIn 1.5s ease-out;
+            margin-bottom: 30px;
         }
-        .row {
+
+        .hero h1 {
+            color: red;
+            margin-bottom: 10px;
+        }
+
+        /* Carrossel de projetos */
+        .projects {
             display: flex;
-            overflow-x: scroll;
+            overflow-x: auto;
+            gap: 20px;
             padding: 20px;
-            gap: 10px;
-            scroll-behavior: smooth;
+            scroll-snap-type: x mandatory;
         }
+
         .project-card {
-            min-width: 200px;
-            height: 300px;
+            flex: 0 0 250px;
             background-color: #333;
-            border-radius: 5px;
-            padding: 15px;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            transition: all 0.3s ease;
-            animation: fadeIn 2s ease-out;
+            border-radius: 10px;
+            padding: 20px;
+            scroll-snap-align: center;
+            transition: transform 0.3s;
         }
+
         .project-card:hover {
             transform: scale(1.05);
-            box-shadow: 0 0 20px rgba(229, 9, 20, 0.5);
-            animation: cardHover 0.5s ease;
         }
+
         .project-card h3 {
-            color: #e50914;
-            margin: 0;
-            transition: color 0.3s ease;
+            color: red;
+            margin-bottom: 10px;
         }
-        .project-card:hover h3 {
-            color: white;
-        }
-        .project-techs {
+
+        .tech-badges {
             display: flex;
             gap: 10px;
+            margin-top: 15px;
         }
-        .tech-badge {
-            background-color: #e50914;
+
+        .badge {
+            background-color: red;
             color: white;
             padding: 5px 10px;
             border-radius: 20px;
-            font-size: 12px;
-            transition: transform 0.3s ease;
+            font-size: 0.8em;
         }
-        .tech-badge:hover {
-            transform: scale(1.1);
-        }
-        /* Scrollbar Styling */
-        .row::-webkit-scrollbar {
+
+        /* Scrollbar personalizada */
+        .projects::-webkit-scrollbar {
             height: 8px;
         }
-        .row::-webkit-scrollbar-track {
-            background: #333;
+
+        .projects::-webkit-scrollbar-track {
+            background: #222;
         }
-        .row::-webkit-scrollbar-thumb {
-            background: #e50914;
+
+        .projects::-webkit-scrollbar-thumb {
+            background-color: red;
             border-radius: 4px;
         }
     </style>
@@ -143,53 +148,44 @@
             <a href="#">Projetos</a>
             <a href="#">Sobre</a>
             <a href="#">Contato</a>
-            <a href="#">GitHub</a>
         </div>
     </nav>
 
-    <header class="hero">
-        <div class="hero-content">
+    <div class="profile">
+        <div class="hero">
             <h1>Vitor Hugo</h1>
-            <p>Técnico em Informática | Estudante de Sistemas da Informação</p>
-            <p>Desenvolvedor apaixonado por tecnologia e criação de soluções inovadoras</p>
+            <p>Técnico em Informática | Sistemas da Informação</p>
+            <p>Desenvolvedor apaixonado por tecnologia</p>
         </div>
-    </header>
 
-    <section>
-        <h2>Projetos Principais</h2>
-        <div class="row">
+        <div class="projects">
             <div class="project-card">
-                <div>
-                    <h3>StreamFlix</h3>
-                    <p>Clone de interface de streaming</p>
-                </div>
-                <div class="project-techs">
-                    <span class="tech-badge">HTML</span>
-                    <span class="tech-badge">CSS</span>
+                <h3>StreamFlix</h3>
+                <p>Clone de interface de streaming</p>
+                <div class="tech-badges">
+                    <span class="badge">HTML</span>
+                    <span class="badge">CSS</span>
                 </div>
             </div>
+
             <div class="project-card">
-                <div>
-                    <h3>Sistema de Gestão</h3>
-                    <p>Aplicação para gerenciamento de recursos</p>
-                </div>
-                <div class="project-techs">
-                    <span class="tech-badge">Python</span>
-                    <span class="tech-badge">Django</span>
+                <h3>Sistema Gestão</h3>
+                <p>Aplicação de gerenciamento</p>
+                <div class="tech-badges">
+                    <span class="badge">Python</span>
+                    <span class="badge">Django</span>
                 </div>
             </div>
+
             <div class="project-card">
-                <div>
-                    <h3>Portfólio Pessoal</h3>
-                    <p>Site para apresentação de projetos</p>
-                </div>
-                <div class="project-techs">
-                    <span class="tech-badge">React</span>
-                    <span class="tech-badge">JavaScript</span>
+                <h3>Portfólio</h3>
+                <p>Site de apresentação pessoal</p>
+                <div class="tech-badges">
+                    <span class="badge">React</span>
+                    <span class="badge">JS</span>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
 </body>
 </html>
-
