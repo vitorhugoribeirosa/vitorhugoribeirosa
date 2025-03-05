@@ -1,52 +1,59 @@
-# Olá, sou Vitor Hugo! 👋
+# 🚀 Vitor Hugo | Tech Innovator
 
-## 🚀 Sobre Mim
-Sou um **Técnico em Informática** apaixonado por tecnologia e em constante aprendizado. Atualmente, estou cursando **Sistemas de Informação** e adoro explorar novos horizontes no mundo da tecnologia.
+<div align="center">
+  <img src="https://via.placeholder.com/800x300.png?text=Vitor+Hugo+%7C+Tech+Explorer" alt="Banner Tecnológico" width="100%">
+</div>
 
-### 📍 Formação
-- Técnico em Informática pelo CEDUP
-- Graduando em Sistemas de Informação
+## 🌐 Digital Landscape
 
-## 💻 Habilidades Técnicas
-- Linguagens de Programação: 
-  - Python
-  - JavaScript
-  - Java
-- Frameworks: 
-  - React
-  - Django
-- Ferramentas: 
-  - Git
-  - Docker
-  - Linux
-- Banco de Dados: 
-  - MySQL
-  - PostgreSQL
+### 🤖 Quem Sou
+Técnico em Informática e futuro cientista da computação, navegando pelos universos digitais da tecnologia com uma missão: transformar linhas de código em soluções inovadoras.
 
-## 🌱 Áreas de Interesse
-- Desenvolvimento Web
-- Infraestrutura de TI
-- Segurança da Informação
-- Inteligência Artificial
+## 💻 Tech Stack Futurista
 
-## 🏆 Projetos Destacados
-### Sistema de Gestão Acadêmica
-Um projeto completo de sistema web para gerenciamento escolar, desenvolvido durante meu curso técnico.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-Jedi%20Level-blue?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-Matrix%20Mode-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-Cyberpunk%20Edition-blueviolet?style=for-the-badge&logo=react" alt="React"/>
+</div>
 
-### Dashboard de Monitoramento de Redes
-Aplicação para monitoramento e análise de performance de redes utilizando Python e ferramentas de visualização.
+### 🛠️ Ferramentas de Destruição em Massa (de Problemas)
+- 🔧 Infraestrutura Ninja
+- 🌍 Arquiteto de Ecossistemas Digitais
+- 🔒 Guardião da Segurança Cibernética
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true)
+## 🚀 Projetos Que Quebram a Matriz
 
-## 📫 Como Me Encontrar
-- LinkedIn: [Seu nome no LinkedIn]
-- Email: seuemail@exemplo.com
-- Portfólio: [Link do seu portfólio]
+### 💡 Projeto Nexus
+Sistema de gerenciamento acadêmico que não é apenas um sistema, é uma revolução digital.
 
-## 💡 Frase Motivacional
-> "Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende." - Leonardo da Vinci
+### 🌈 Dashboard Quantum
+Monitoramento de redes que parece saído de um filme de ficção científica.
+
+## 🔮 Estatísticas Interdimensionais
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical"/>
+</div>
+
+## 📡 Portais de Comunicação
+
+<div align="center">
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-Transmission%20Point-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/seuusuario">
+    <img src="https://img.shields.io/badge/LinkedIn-Connection%20Hub-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</div>
+
+## 💬 Mensagem de Criptação Pessoal
+
+> "No universo infinito do código, cada bug é apenas uma estrela ainda não mapeada." - Vitor Hugo, Explorador Digital 🌠
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Sempre aberto a novas conexões e oportunidades de aprendizado.
+<div align="center">
+  🤖 Perfil em constante atualização. Última sincronização: Hoje 🔄
+</div>
