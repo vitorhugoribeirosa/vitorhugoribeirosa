@@ -1,67 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=063970&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=063970&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vitor+Hugo+Ribeiro+Sá;Eu+estudo+sistemas+da+informação+na+Uniplac;Seja+bem+vindo!+:%29)](https://git.io/typing-svg) 
+# Vitor Hugo Ribeiro Sá
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorhugoribeirosa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Hugo github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugoribeirosa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+Sou estudante de **Sistemas de Informação** na Uniplac e formado no curso técnico em Informática pelo CEDUP Renato Ramos. Gosto de criar sites, organizar ideias em projetos reais e aprender cada vez mais sobre desenvolvimento web.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorhugoribeirosa&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Sobre mim
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vitorhugoribeirosa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+- Estudante de tecnologia.
+- Interesse em desenvolvimento web, GitHub, bancos de dados e projetos digitais.
+- Experiência com HTML, CSS, JavaScript, Node.js, React, Python, C# e MySQL.
+- Criador do projeto **Será que é Autismo?**, uma iniciativa acadêmica voltada à informação e triagem inicial sobre TEA.
+
+## Projetos em destaque
+
+| Projeto | Descrição |
+| --- | --- |
+| [Será que é Autismo?](https://github.com/vitorhugoribeirosa/autismo) | Site informativo com questionário inicial sobre sinais relacionados ao TEA. |
+| [Portfólio Vitor Hugo](https://github.com/vitorhugoribeirosa/meu-portfolio) | Portfólio pessoal com apresentação, formação, contatos e projetos. |
+| [Santa RP Jurídico](https://github.com/vitorhugoribeirosa/santa-rp-juridico) | Ideia de projeto para organizar área jurídica em servidor de roleplay. |
+| [Primeiros Passos no GitHub Desktop](https://github.com/vitorhugoribeirosa/desktop-tutorial) | Repositório de estudo para praticar Git e GitHub Desktop. |
+
+## Habilidades
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=purple" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql" />
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/vitorhrs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
-Minhas Redes Sociais
+## Ferramentas
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](vitorh7739)
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows" />
+</p>
+
+## Estatísticas
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorhugoribeirosa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Vitor Hugo" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugoribeirosa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Linguagens mais usadas" />
+</div>
+
+## Contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorhrs_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-a9a9212a3/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198876596275/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vitor.hugoribeirosa)
 
-
-
- 
-### Principais habilidades:
-<p align="left">
-  <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117" height="40">
-</p>
-
-
- 
-### Ferramentas:
-<p align="left">
-  <img src="https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" height="40">
-</p>
-
- 
-### Outros conhecimentos:
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" height="40">
-  <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117" height="40">
-</p>
-
-### Estudando:
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vitorhugoribeirosa}/count.svg" /></p> 
-<br></div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" />
