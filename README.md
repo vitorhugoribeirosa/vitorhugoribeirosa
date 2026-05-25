@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vitor+Hugo+Ribeiro+Sá;Eu+estudo+sistemas+da+informação+na+Uniplac;Seja+bem+vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitorhugoribeirosa&theme=github_dark" alt="Estatísticas do GitHub de Vitor Hugo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorhugoribeirosa&theme=github_dark" alt="Linguagens mais usadas por repositório" />
 </div>
 
